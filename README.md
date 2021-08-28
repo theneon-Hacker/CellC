@@ -21,17 +21,21 @@ For example, `echo 'Hello World!'` prints 'Hello World!', but `echo (9 > 0)` pri
 **$** command is input.
 
 **if** command is condition statement.
-For example, 
+For example,
+
 	if (1 < NOW) {
 		echo 'Hello World!'
 	}
+	
 will not prints something 'cause default value of all cells is equals 0.
               
 **while** command is 'while' loop.
-For example, 
+For example,
+
 	while (NOW ~ 10) {
 		add;
-	} 
+	}
+	
 will adding cell's value while it not equals 10.
                 
 And operator **>** means 'more than', **<** - 'less than', **=** - 'equals', **~** - 'not equals'
