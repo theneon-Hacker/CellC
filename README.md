@@ -30,8 +30,8 @@ For example, `while (NOW ~ 10) {
                 add;
                 }` will adding cell's value while it not equals 10.
                 
-And operator **>** means 'more than', **<** - 'less than', **=** - 'equals', **~** - 'not equals'\n
-Operator **;** is not terminator of statement, it is needed for readability
+And operator **>** means 'more than', **<** - 'less than', **=** - 'equals', **~** - 'not equals'
+	Operator **;** is not terminator of statement, it is needed for readability
 
 __Code Samples:__
 
