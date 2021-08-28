@@ -36,11 +36,11 @@ And operator **>** means 'more than', **<** - 'less than', **=** - 'equals', **~
 __Code Samples:__
 
 _Truth Machine:_
-  
-  `while ($) {
-	  echo 1;
-  }
-  echo 0;`
+ 
+	while ($) {
+		echo 1;
+		}
+	echo 0;`
   
 _Create as many cells as the user enters:_
 
