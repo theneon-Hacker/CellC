@@ -37,20 +37,20 @@ __Code Samples:__
 
 _Truth Machine:_
   
-  while ($) {
+  `while ($) {
 	  echo 1;
   }
-  echo 0;
+  echo 0;`
   
 _Create as many cells as the user enters:_
 
-  add $;
+  `add $;
   while (NOW) {
 	   new;
 	   add -1;
-  }
+  }`
   
 _Hello World:_
 
-  echo 'Hello World!'
+  `echo 'Hello World!'`
 
