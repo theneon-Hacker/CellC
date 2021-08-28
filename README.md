@@ -40,15 +40,15 @@ _Truth Machine:_
 	while ($) {
 		echo 1;
 		}
-	echo 0;`
+	echo 0;
   
 _Create as many cells as the user enters:_
 
-  `add $;
-  while (NOW) {
-	   new;
-	   add -1;
-  }`
+	add $;
+	while (NOW) {
+		new;
+		add -1;
+	}
   
 _Hello World:_
 
